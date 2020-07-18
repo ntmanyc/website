@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://ntmanyc.github.io"
-title = "Educenter | hugo education template"
+title = "Navigate The Maze To Acheivement"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
