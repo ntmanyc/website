@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Navigate The Maze To Acheivement</title>
-    <link>https://ntmanyc.github.io/about/</link>
+    <link>https://ntmanyc.github.io/website/about/</link>
     <description>Recent content in About Us on Navigate The Maze To Acheivement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
     
-	<atom:link href="https://ntmanyc.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ntmanyc.github.io/website/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
