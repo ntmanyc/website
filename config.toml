@@ -16,7 +16,7 @@ disableLanguages = [] # desable language from here
 
 # CSS Plugins
 [[params.plugins.css]]
-link = "/plugins/bootstrap/bootstrap.min.css"
+link = "/website/plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "/website/plugins/slick/slick.css"
 [[params.plugins.css]]
