@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ntmanyc.github.io"
+baseURL = "https://ntmanyc.github.io/website/"
 title = "Navigate The Maze To Acheivement"
 theme = "educenter-hugo"
 # post pagination
